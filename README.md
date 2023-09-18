@@ -8,17 +8,19 @@
 
 ### [조건식](./app/src/main/java/fastcampus/part0/kotlin/Example5.kt)
 
-### [반복문](./app/src/main/java/fastcampus/part0/kotlin/)
+### [반복문](./app/src/main/java/fastcampus/part0/kotlin/Example6.kt)
 
-### [컬랙션 (list, map, set)](./app/src/main/java/fastcampus/part0/kotlin/)
+### [컬랙션 (list, map, set)](./app/src/main/java/fastcampus/part0/kotlin/Example7.kt)
 
-### [Null](./app/src/main/java/fastcampus/part0/kotlin/)
+### [Null](./app/src/main/java/fastcampus/part0/kotlin/Example8.kt)
 
-### [타입체크와 캐스팅](./app/src/main/java/fastcampus/part0/kotlin/)
+### [타입체크와 캐스팅](./app/src/main/java/fastcampus/part0/kotlin/Example9.kt)
 
-### [String template](./app/src/main/java/fastcampus/part0/kotlin/)
+### [String template](./app/src/main/java/fastcampus/part0/kotlin/Example10.kt)
 
-### [람다](./app/src/main/java/fastcampus/part0/kotlin/)
+### [람다](./app/src/main/java/fastcampus/part0/kotlin/Example11.kt)
+
+### [람다 - SAM](./app/src/main/java/fastcampus/part0/kotlin/MainActivity.kt)
 
 ### [확장함수](./app/src/main/java/fastcampus/part0/kotlin/)
 
