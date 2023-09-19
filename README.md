@@ -22,9 +22,9 @@
 
 ### [람다 - SAM](./app/src/main/java/fastcampus/part0/kotlin/MainActivity.kt)
 
-### [확장함수](./app/src/main/java/fastcampus/part0/kotlin/)
+### [확장함수](./app/src/main/java/fastcampus/part0/kotlin/Example12.kt)
 
-### [Scope function](./app/src/main/java/fastcampus/part0/kotlin/)
+### [Scope function](./app/src/main/java/fastcampus/part0/kotlin/Example13.kt)
 
 ### [초기화 지연](./app/src/main/java/fastcampus/part0/kotlin/)
 
