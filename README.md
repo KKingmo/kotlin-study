@@ -26,7 +26,7 @@
 
 ### [Scope function](./app/src/main/java/fastcampus/part0/kotlin/Example13.kt)
 
-### [초기화 지연](./app/src/main/java/fastcampus/part0/kotlin/)
+### [초기화 지연](./app/src/main/java/fastcampus/part0/kotlin/Example14.kt)
 
 ### [data, sealed class](./app/src/main/java/fastcampus/part0/kotlin/)
 
