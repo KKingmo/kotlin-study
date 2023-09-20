@@ -28,7 +28,7 @@
 
 ### [초기화 지연](./app/src/main/java/fastcampus/part0/kotlin/Example14.kt)
 
-### [data, sealed class](./app/src/main/java/fastcampus/part0/kotlin/)
+### [data, sealed class](./app/src/main/java/fastcampus/part0/kotlin/Example15.kt)
 
 ### [object, companion object](./app/src/main/java/fastcampus/part0/kotlin/)
 
