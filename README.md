@@ -30,7 +30,5 @@
 
 ### [data, sealed class](./app/src/main/java/fastcampus/part0/kotlin/Example15.kt)
 
-### [object, companion object](./app/src/main/java/fastcampus/part0/kotlin/)
-
-### [](./app/src/main/java/fastcampus/part0/kotlin/)
+### [object, companion object](./app/src/main/java/fastcampus/part0/kotlin/Example16.kt)
 
